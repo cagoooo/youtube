@@ -77,8 +77,6 @@ yt-dlp is a feature-rich command-line audio/video downloader with support for [t
 
 # INSTALLATION
 
-> 📌 **建置版本：2026.01.29**（依據 `CHANGELOG.md`）
-
 <!-- MANPAGE: BEGIN EXCLUDED SECTION -->
 [![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp.exe)
 [![Unix](https://img.shields.io/badge/-Linux/BSD-red.svg?style=for-the-badge&logo=linux)](https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp)
